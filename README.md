@@ -97,7 +97,6 @@
 identity  = "Real-Time Computer Vision Engineer"
 focus     = ["Detection", "Tracking", "Video Streams"]
 stack     = ["YOLOv8", "ByteTrack", "OpenCV", "PyTorch"]
-say_no_to = ["NLP", "GANs", "3D Vision", "Everything else"]
 status    = "Building in public — Break 1 (Jul–Oct 2026)"
 ```
 
