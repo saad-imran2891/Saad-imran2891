@@ -23,7 +23,6 @@ class SaadImran:
     education = "BS Software Engineering @ DSU"
     focus     = ["Detection", "Tracking", "Video Streams"]
     stack     = ["YOLOv8", "ByteTrack", "OpenCV", "PyTorch"]
-    say_no_to = ["NLP", "GANs", "3D Vision", "Everything else"]
     rule      = "Go deep on one thing. Say no to the rest."
     goal      = "Computer Vision Engineer"
     status    = "Break 1 — Building in public (Jul–Oct 2026)"
